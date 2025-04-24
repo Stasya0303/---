@@ -16,6 +16,7 @@
   }
 .text-block {
     padding: 20px;
+}
 @keyframes fadeInUp {
   from {
       opacity: 0; 
