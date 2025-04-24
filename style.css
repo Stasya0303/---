@@ -5,8 +5,8 @@
     color: #FF6F00
 }
 .resume-container {
-  max-width: 1000px; 
-  margin: 0 auto; 
+  max-width: 800px; 
+  margin: auto; 
   padding:10px; 
   border-radius:10px; 
   box-shadow:0 0 10px rgba(0,0,0,.1);
@@ -23,7 +23,8 @@
       transform: translateY(0);}
         }
 h1,h2,h3,h4,h5,h6 {
-  padding-bottom:25px;
+  padding-bottom:10px;
+  padding-left: 10px;
     }
 hr {
   border:none; 
@@ -31,11 +32,11 @@ hr {
   background-color:#0469b6;
   }
 .section-title {
-  margin-bottom:25px;
+  margin-bottom:15px;
   color:#333;
   }
 ul.list-unstyled {
-  padding-left:10px;
+  padding-left:0;
   margin-bottom:15px;
   }
 ul.list-unstyled li::before {
