@@ -14,7 +14,7 @@
   opacity: 0;
   transform: translateY(50px);
   }
-.text-block {
+.text-container {
     padding: 20px; 
 }
 @keyframes fadeInUp {
