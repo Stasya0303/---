@@ -5,7 +5,7 @@
     color: #FF6F00
 }
 .resume-container {
-  max-width: 900px; 
+  max-width: 1000px; 
   margin: 0 auto; 
   padding:10px; 
   border-radius:10px; 
@@ -14,6 +14,9 @@
   opacity: 0;
   transform: translateY(50px);
   }
+.text-block {
+    padding: 20px; 
+}
 @keyframes fadeInUp {
   from {
       opacity: 0; 
