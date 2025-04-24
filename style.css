@@ -23,7 +23,7 @@
       transform: translateY(0);}
         }
 h1,h2,h3,h4,h5,h6 {
-  padding-bottom:15px;
+  padding-bottom:25px;
     }
 hr {
   border:none; 
@@ -31,11 +31,11 @@ hr {
   background-color:#0469b6;
   }
 .section-title {
-  margin-bottom:15px;
+  margin-bottom:25px;
   color:#333;
   }
 ul.list-unstyled {
-  padding-left:40px;
+  padding-left:400px;
   margin-bottom:15px;
   }
 ul.list-unstyled li::before {
